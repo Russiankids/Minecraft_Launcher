@@ -5,6 +5,6 @@
 
 Вы можете скачать его и играть с любым ником и версиями Майнкрафта!!!!
 main.py - легче воссоздать
-main1.py - сложнее, но вы можете настроить их!!!!
+main2.py - сложнее, но вы можете настроить их!!!!
 Бесплатно использовать
 Требуется: py 3.12 (minecraft_launcher_lib, PyQt5 import QtCore, QtGui, QtWidgets, random_username.generate import generate_username, uuid import uuid1, subprocess)
