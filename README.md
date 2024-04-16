@@ -1,6 +1,8 @@
 # RussianKid
 Hello everyone! I just fucking tired with this small project, but now i can tell about him
 
+DefLauncher official cooperation
+
 Minecraft Launcher on python!!!!🥳🥳🥳🥳
 
 You can download him and play with any nickname and versions of Minecraft!!!!
