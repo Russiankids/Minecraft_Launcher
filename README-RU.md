@@ -3,6 +3,7 @@
 
 EXE Версия
 https://drive.google.com/file/d/14wiYXdQDEO_6jSTVNjFnCnsNI6RIa49D/view?usp=sharing
+Антивирус может заблокировать формат exe
 
 Официальное сотрудничество с Deflauncher
 
