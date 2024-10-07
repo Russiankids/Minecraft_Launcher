@@ -11,5 +11,5 @@ Minecraft Launcher on python!!!!🥳🥳🥳🥳
 
 You can download him and play with any nickname and versions of Minecraft!!!!
 Free to use
-Needs: py 3.12 (minecraft_launcher_lib, PyQt5 import QtCore, QtGui, QtWidgets, random_username.generate import generate_username, uuid import uuid1, subprocess)
+Needs: py 3.12
 #minecraft-launcher
